@@ -6,6 +6,7 @@
 进入 issues 观看
 - 段子: http://duanzi.tuna.moe/
 - 坑: https://github.com/tuna/collection/labels/keng
+- 什么值得买: https://github.com/tuna/collection/labels/BuyBuyBuy
 - Flag: https://github.com/tuna/collection/labels/flag
 
 # 怎么写
