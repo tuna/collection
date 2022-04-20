@@ -4,7 +4,7 @@
 
 # 怎么看
 进入 issues 观看
-- 段子: http://duanzi.tuna.moe/
+- 段子: https://github.com/tuna/collection/labels/duanzi
 - 坑: https://github.com/tuna/collection/labels/keng
 - 什么值得买: https://github.com/tuna/collection/labels/BuyBuyBuy
 - Flag: https://github.com/tuna/collection/labels/flag
